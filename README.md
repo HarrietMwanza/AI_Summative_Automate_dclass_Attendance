@@ -1,15 +1,9 @@
-# AI_Summative_Automate_dclass_Attendance
-#Our AI project is about an automated attendace system that uses face recognition and python to scan faces
-#of people present in a room and compares the faces with the ones in already stored. A database can be used or jsut an assests folder
-#after it comapares it send results to the "attendace" csv where the names of the attendace are and the time 
-#it is a simple application and can be firther modified
+Our AI-powered project aims to automate attendance tracking by utilizing face recognition technology and Python programming language. The system scans the faces of individuals present in a room using either a pre-existing database or an assets folder and compares them with stored images. If a match is found, the system records the attendance by adding the name and timestamp to a CSV file.
 
-PS: To run the application, click on "Run" on your vscode
-and wait for it to load, after the camera flash will come on and scan your face.
-To stop it press "Q"
+The application is simple and can be customized as per the user's requirements. To run the application, simply click on "Run" on your VS Code or any other environment you are working on, and the camera will capture images and scan faces. To stop the application, press "Q".
+
+We have also created a video explaining the project in more detail which can be found here:
+Furthermore, our simple application has been hosted for easy access and usage which can be found here:
 
 
 
-Here is a video explaining more:
-
-And here is where our simple applciation has been hosted:
