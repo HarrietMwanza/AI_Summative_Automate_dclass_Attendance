@@ -4,7 +4,7 @@
 #after it comapares it send results to the "attendace" csv where the names of the attendace are and the time 
 #it is a simple application and can be firther modified
 
-PS: To run the application, click on "RUn" on your vscode
+PS: To run the application, click on "Run" on your vscode
 and wait for it to load, after the camera flash will come on and scan your face.
 To stop it press "Q"
 
