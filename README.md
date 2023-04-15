@@ -10,6 +10,6 @@ To stop it press "Q"
 
 
 
-Here is a vidoe explaining more:
+Here is a video explaining more:
 
 And here is where our simple applciation has been hosted:
