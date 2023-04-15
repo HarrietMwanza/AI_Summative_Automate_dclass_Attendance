@@ -2,8 +2,10 @@ Our AI-powered project aims to automate attendance tracking by utilizing face re
 
 The application is simple and can be customized as per the user's requirements. To run the application, simply click on "Run" on your VS Code or any other environment you are working on, and the camera will capture images and scan faces. To stop the application, press "Q".
 
-We have also created a video explaining the project in more detail which can be found here:
-Furthermore, our simple application has been hosted for easy access and usage which can be found here:
+1. We have also created a video explaining the project in more detail which can be found here:
+
+
+2.Our simple application has been hosted for easy access and usage which can be found here:
 
 
 
