@@ -6,7 +6,7 @@ The application is simple and can be customized as per the user's requirements. 
 
 1. We have also created a video on google drive explaining the project in more detail which can be found here:
 a. video expalination: https://drive.google.com/drive/folders/1pQ4NmvPVY9K3BhqRiRiNX_N7_iHgjGja?usp=share_link
-b. video demonstration:https://drive.google.com/file/d/1yX7aQbzdYagX2UqT5WLQk-fjj3lqvbKt/view?usp=share_link
+b. video demonstration:https://drive.google.com/file/d/1FxfjBKQ6LjiKmTSLsq6sy1ssGuWdcB3X/view?usp=share_link
 
 
 2.Our simple application has been hosted for easy access and usage which can be found here: https://cautious-winner-production.up.railway.app/
