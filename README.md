@@ -2,7 +2,9 @@ Our AI-powered project aims to automate attendance tracking by utilizing face re
 
 The application is simple and can be customized as per the user's requirements. To run the application, simply click on "Run" on your VS Code or any other environment you are working on, and the camera will capture images and scan faces. To stop the application, press "Q".
 
-1. We have also created a video explaining the project in more detail which can be found here:
+1. We have also created a video on google drive explaining the project in more detail which can be found here:
+a. vidoe expalination: https://drive.google.com/drive/folders/1pQ4NmvPVY9K3BhqRiRiNX_N7_iHgjGja?usp=share_link
+b. vidoe demonstration:
 
 
 2.Our simple application has been hosted for easy access and usage which can be found here: https://cautious-winner-production.up.railway.app/
