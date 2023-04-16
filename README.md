@@ -5,7 +5,7 @@ The application is simple and can be customized as per the user's requirements. 
 1. We have also created a video explaining the project in more detail which can be found here:
 
 
-2.Our simple application has been hosted for easy access and usage which can be found here:
+2.Our simple application has been hosted for easy access and usage which can be found here: https://cautious-winner-production.up.railway.app/
 
 
 
